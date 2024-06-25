@@ -1,0 +1,20 @@
+/* UserManagement.css */
+
+.user-management {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.add-user-form {
+  margin-bottom: 20px;
+}
+
+.ant-table {
+  margin-top: 20px;
+}
+
+.ant-popover-inner-content {
+  display: flex;
+  justify-content: space-between;
+}
